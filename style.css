@@ -1,0 +1,23 @@
+
+.corousel-section{
+    background-image: url("assets/img/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #ff5898 0%, #ff136f 100%);
+  border: none;
+  border-radius: 6px;
+  color: white;
+  padding: 10px 20px;
+}
+.carousel-indicators li{
+    background: #000;
+}
+.carousel-indicators .active{
+    background: #f00;
+}
+.carousel-control-prev-icon{
+    color: #000;
+}
+
